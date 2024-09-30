@@ -24,5 +24,13 @@ export const invoices = [
         status: 'Em Aberto',
         dueDate: '2024-10-15',
       },
+      {
+        id: 4,
+        number: 'INV-004',
+        client: 'Cliente C',
+        amount: 2500.00,
+        status: 'Vencido',
+        dueDate: '2024-10-15',
+      },
   ];
   
